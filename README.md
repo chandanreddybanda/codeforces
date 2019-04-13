@@ -1,2 +1,4 @@
 # codeforces
-This contains all solutions i have solved till date in codeforces.com
+This contains all solutions I have solved till date in codeforces.com
+
+File name is the Question number in codeforces.com
